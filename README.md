@@ -22,7 +22,7 @@
 
 ---
 
-## 🐦‍⬛ What is Raven OS?
+What is Raven OS?
 
 **Raven OS** is an independent operating system developed under **Project Crow** — not a Linux distro, not a Windows reskin. Something built from the ground up with a clear set of values: performance, privacy, and putting control back in the user's hands.
 
@@ -33,8 +33,7 @@ Raven OS is being developed alongside dedicated Project Crow hardware, so the so
 > **"Your hardware. Your data. Your OS."**
 
 ---
-
-## 🖥️ The Problem
+The Problem
 
 Most people don't realise how much their OS costs them — not in money, but in performance, battery life, and privacy.
 
@@ -73,7 +72,7 @@ Ships clean for personal users. For organisations — schools, businesses, insti
 
 
 
-## 📍 Project Status
+Project Status
 
 Raven OS is in **pre-alpha**. The foundation is being laid now.
 
@@ -92,7 +91,7 @@ Raven OS is in **pre-alpha**. The foundation is being laid now.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 This is open source and community-driven from day one. We need people across every discipline — not just developers.
 
