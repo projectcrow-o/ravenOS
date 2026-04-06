@@ -1,6 +1,6 @@
 # Raven OS
 
-> Control your system, not the other way around.
+Control your system, not the other way around.
 
 Raven OS is a privacy-first, performance-focused operating system built for the Project Crow ecosystem.
 
