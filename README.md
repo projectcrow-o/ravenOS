@@ -132,6 +132,9 @@ Use it. Modify it. Distribute it. You cannot make it proprietary. That's the dea
 
 <br/>
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c4c6be2b-1899-4e23-9590-4ca0531fb05c" />
+
+
 ⭐ Star the repo if you believe in this · 🍴 Fork it if you want to build · 📢 Share it if you want to help
 
 </div>
