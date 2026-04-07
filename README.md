@@ -131,6 +131,9 @@ Use it. Modify it. Distribute it. You cannot make it proprietary. That's the dea
 *Built in the open. Owned by everyone.*
 
 <br/>
+<img width="3840" height="2160" alt="ravenOSMOCK3_upscayl_2x_digital-art-4x" src="https://github.com/user-attachments/assets/bd082cf9-ffee-4b0c-bbb3-fbc237fa276e" />
+<img width="1920" height="1080" alt="ravenos2" src="https://github.com/user-attachments/assets/f13202ae-cf32-4a2a-ae8a-5a59d1331071" />
+
 
 
 ⭐ Star the repo if you believe in this · 🍴 Fork it if you want to build · 📢 Share it if you want to help
